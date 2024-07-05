@@ -4,8 +4,6 @@
 # Camera Parameters. Adjust them!
 #--------------------------------------------------------------------------------------------
 File.version: "1.0"
-# System.LoadAtlasFromFile: "Session_MH01_MH02_MH03_Stereo60_Pseudo"
-# System.SaveAtlasToFile: "Session_MH01_MH02_MH03_Stereo60_Pseudo"
 
 Camera.type: "PinHole"
 
